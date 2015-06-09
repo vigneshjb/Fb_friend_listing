@@ -2,7 +2,7 @@ require 'rubygems'
 require 'json'
 require "open-uri"
 
-output = File.open( "myfriends.html","w" )
+output = File.open( "myFriends.html","w" )
 
 access_token = "" #Enter Access Token Here
 
